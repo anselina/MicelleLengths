@@ -19,4 +19,4 @@ Details
 
 Examples
 --------------
-See `sample` for some sample TEM images that can be used with this program.
+See `samples` for some sample TEM images that can be used with this program.
